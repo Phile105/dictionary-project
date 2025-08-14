@@ -15,10 +15,12 @@ a {
   margin: 30px 0;
 }
 
-.App-logo {
+.App-books {
   max-width: 200px;
   display: block; 
   margin: 0 auto;
+  border-radius: 10px;
+  background: #f9f8fe;
 }
 
 
